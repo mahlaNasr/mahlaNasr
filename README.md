@@ -1,6 +1,5 @@
 * 👋 Hi, I’m @mahlaNasr
-* 👀 I’m interested in Robotics, Web designs and Music, Digital Art!
-* 🌱 I’m currently learning about front end web technologies including JS libraries.
+* I’m interested in Robotics, Web designs, Music and Digital Art!
 * 📫 How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/mahla-nasrollahi-0bb679163/)
   * [Persnonal Instagram](https://www.instagram.com/mahla_nasr/)
