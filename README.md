@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @mahlaNasr
-* I’m interested in Robotics, Web designs, Music and Digital Art!
+* I’m interested in Digital Art, Web designs, Travelling and Music!
 * 📫 How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/mahla-nasrollahi-0bb679163/)
   * [Persnonal Instagram](https://www.instagram.com/mahla_nasr/)
